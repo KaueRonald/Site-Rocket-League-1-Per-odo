@@ -1,0 +1,200 @@
+body{ 
+    background-image: url("../Imagens/contato/background_contato.jpg");
+    background-repeat: repeat-x;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+ }
+
+  #faixa{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(0, 0, 0);
+  
+    
+    z-index:9999;
+    
+  }
+    #icon1{
+    position: fixed;
+    margin-top: 0.1%;
+    margin-left: 1%;
+   }
+   #download{
+    padding-top: 19px;
+    padding-bottom: -15px;
+    top: -20px;
+    position: fixed;
+    margin-top: 0.1%;
+    margin-left: 92.6%;
+    transition: 0.3s;
+   }
+   #Titulo{
+    color:white;
+    margin-top: 8%;
+    text-align:center;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+   }
+
+ #video1{
+  width: 750px;
+  margin:0 auto;
+  display: block;
+  margin-top: 2%;
+  
+ }
+ #dev{
+  color:white;
+    margin-top: 10%;
+    text-align:center;
+    
+ }
+
+ #nome{
+  color:white;
+  margin-top: 0.5%;
+  text-align:center;
+ }
+
+#historia{
+  padding-top: 22px;
+  padding-bottom: 30px;
+  top: -20px;
+  position: fixed;
+  color:white;
+  margin-left: 20%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  transition: 0.3s;
+}
+
+#comojogar{ 
+  padding-top: 22px;
+  padding-bottom: 30px;
+  top: -20px; 
+  position: fixed;
+  color:white;
+  margin-left: 30%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  transition: 0.3s;
+
+}
+#rankings{
+  padding-top: 22px;
+  padding-bottom: 30px;
+  top: -20px;
+  position: fixed;
+  color:white;
+  margin-left: 43%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  transition: 0.3s;
+
+}
+#sobrenos{
+  padding-top: 22px;
+  padding-bottom: 30px;
+  top: -20px;
+  position: fixed;
+  color:white;
+  margin-left: 53%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  transition: 0.3s;
+
+}
+#hitbox{
+  padding-top: 22px;
+  padding-bottom: 30px;
+  top: -20px;
+  position: fixed;
+  color:white;
+  margin-left: 64%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  transition: 0.3s;
+
+}
+#contato{
+  padding-top: 22px;
+  padding-bottom: 30px;
+  top: -20px;
+  position: fixed;
+  color:white;
+  margin-left: 72%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  transition: 0.3s;
+}
+
+#historia:hover{
+  background-color: rgb(39, 29, 167);
+  align-items: center;
+  }
+  #comojogar:hover{
+    background-color: rgb(39, 29, 167);
+    align-items: center;
+  }#rankings:hover{
+    background-color: rgb(39, 29, 167);
+    align-items: center;
+  }#sobrenos:hover{
+    background-color: rgb(39, 29, 167);
+    align-items: center;
+  }#hitbox:hover{
+    background-color: rgb(39, 29, 167);
+    align-items: center;
+  }#contato:hover{
+    background-color: rgb(39, 29, 167);
+    align-items: center;
+  }#download:hover{
+    background-color:rgb(39, 29, 167);
+    align-items: center;
+  }
+
+  #desenv_text{
+    margin-top:-4%;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    text-indent: 5vw;
+    width: 65%;
+   }
+   #desenv{
+   text-align: justify;
+   color: white;
+   
+   }
+   #rodape{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top:10%;
+    bottom: 10%;
+    height: 3px;
+    background-color: rgb(255, 255, 255);
+    z-index:9999;
+      
+}
+.name{
+  text-decoration: none;
+  color: white;
+  transition: 0.3s;
+  }
+  .name:hover{
+    color: red;
+  
+  }
+
+#formulario{
+  margin-top:4%;
+  text-align: center;
+  color: black;
+  font-size: 1.5em;
+}
+#titulo{
+  text-align: center;
+  font-size: 2em;
+  color: rgb(255, 255, 255);
+  margin-top: 10%;
+}
